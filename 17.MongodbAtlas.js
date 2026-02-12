@@ -1,6 +1,6 @@
 import { MongoClient } from "mongodb";
 
-const url="mongodb+srv://yk5708428_db_user:yashkumar@cluster0.l3jayu5.mongodb.net/?appName=Cluster0";
+const url="mongodb+srv://usernamer:passwordr@cluster0.l3jayu5.mongodb.net/?appName=Cluster0";
 
 const database="school";
 const collection="students"
